@@ -1,0 +1,36 @@
+.Header{
+    background-color: lightgray;
+    text-align: right;
+}
+
+.Header-2{
+    background-color: transparent
+}
+
+ul.pull-right{
+   background-color: black;
+}
+
+ul.pull-right > li{
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+ul.Header-menu > li{
+    display: inline-block;
+}
+
+a{
+    color: beige;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    margin-left: 740%;
+}
+
+#Login-Button{
+  padding-left: 80%;
+
+}
