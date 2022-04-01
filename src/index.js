@@ -7,8 +7,8 @@ import { Auth0Provider } from "@auth0/auth0-react";
 
 ReactDOM.render(
   <Auth0Provider
-    domain="dev-bvjbxxca.us.auth0.com"
-    clientId="JyBk2LvEYxyPoZu0z4HVX6uoR4g1gLR4"
+    domain="<your-domain>"
+    clientId="<your-client-id>"
     redirectUri={window.location.origin}
     //audience='This is an unique identifier'
     //scope='openid profile email'
