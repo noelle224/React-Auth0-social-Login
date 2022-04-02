@@ -19,6 +19,8 @@ Can also check out my code for your idea.
 
 For enabling other social logins, go to the dashboard and select the social logins options to add your favourite.
 
+In the end, it is also storing the token and outputting it to your console, when you check your console.
+
 
 
 
